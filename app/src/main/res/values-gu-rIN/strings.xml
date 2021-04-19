@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">એએમટીએસઇપાસ</string>
+    <string name="Change_Lauguage">ભાષાબદલો</string>
+    <string name="AMTS_EPASS">એએમટીએસઇપાસ</string>
+    <string name="login_with_email">ઇમેઇલસાથેપ્રવેશકરો</string>
+    <string name="creat_a_new_account">નવુંખાતુંબનાવો</string>
+    <string name="register">નોંધણીકરો</string>
+    <string name="an_e_pass_service_from_us"><font color='#6200EE'>An <b>e-Pass</b>અમારાતરફથીસેવા</font></string>
+    <string name="htmlFormattedText">
+<font color='#757272'>By proceeding , you agree to our</font><font color='#6200EE'><b>નિયમોઅનેશરતો</b></font><font color='#757272'>and </font><font color='#6200EE'><b>ગોપનીયતાનીતિ</b></font>
+</string>
+    <string name="todo" />
+    <string name="open">ખુલ્લા</string>
+    <string name="close">બંધ</string>
+    <string name="student">વિદ્યાર્થી</string>
+    <string name="amts_manager">એએમટીએસમેનેજર</string>
+    <string name="collage_authority">કોલેજઓથોરિટી</string>
+    <string name="Login">પ્રવેશકરો</string>
+    <string name="email">ઇમેઇલઆઈડીદાખલકરો</string>
+    <string name="Password">પાસવર્ડદાખલકરો</string>
+    <string name="login">પ્રવેશકરો</string>
+    <string name="studentName">તમારુંનામદાખલકરો</string>
+    <string name="Collage">કોલેજનુંનામદાખલકરો</string>
+    <string name="admin">એડમિન</string>
+    <string name="Employee">કર્મચારી</string>
+    <string name="senior_citizen">વરિષ્ઠનાગરિક</string>
+    <string name="Select_BirthDate">જન્મતારીખપસંદકરો</string>
+    <string name="Register">નોંધણીકરો</string>
+    <string name="ReenterPassword">પાસવર્ડફરીથીનાખો</string>
+    <string name="studentLogin">વિદ્યાર્થીપ્રવેશકરો</string>
+    <string name="GeneratePassRequest">પાસવિનંતીબનાવો</string>
+    <string name="Payment">ચુકવણી</string>
+    <string name="cancel">રદકરો</string>
+    <string name="mobileno">મોબાઇલનંબરદાખલકરો</string>
+    <string name="select_Gender">જાતિપસંદકરો</string>
+    <string name="Male">પુરૂષ</string>
+    <string name="Female">સ્ત્રી</string>
+    <string name="select_Category">કેટેગરીપસંદકરો</string>
+    <string name="email_error1">સાચોઇમેઇલદાખલકરો</string>
+    <string name="select_Source">સ્રોતસ્ટેશનપસંદકરો</string>
+    <string name="select_Destination">લક્ષ્યસ્થાનક્ષેત્રપસંદકરો</string>
+    <string name="choose_end_date">સમાપ્તિતારીખપસંદકરો</string>
+    <string name="choose_start_date">પ્રારંભતારીખપસંદકરો</string>
+    <string name="student_pass_request">વિદ્યાર્થીપાસવિનંતી</string>
+    <string name="enter_collage_name">કોલેજનામદાખલકરો</string>
+    <string name="enter_department_name">વિભાગનામદાખલકરો</string>
+    <string name="enter_enrollment_no">નોંધણીનંબરદાખલકરો</string>
+    <string name="choose_year">વર્ષપસંદકરો</string>
+    <string name="Confirm">પુષ્ટિકરો</string>
+    <string name="already_member_login">પહેલેથી સભ્ય !! પ્રવેશ કરો</string>
+    <string name="no_account_yet_create_one">હજીકોઈએકાઉન્ટનથી??? એકબનાવો</string>
+    <string name="logout">લૉગ આઉટ</string>
+    <string name="settings">સેટિંગ્સ</string>
+    <string name="my_account">મારુંએકાઉન્ટ</string>
+    <string name="nav_open">ખોલો</string>
+    <string name="nav_close">બંધકરો</string>
+    <string name="senior_citizen_pass_request">વરિષ્ઠનાગરિકપાસવિનંતી</string>
+    <string name="employee_pass_request">કર્મચારીપાસવિનંતી</string>
+    <string name="amts_manager_">એએમટીએસમેનેજર</string>
+
+    <string name="next">આગળ</string>
+    <string name="select_collage">તમારુંકોલેજપસંદકરો</string>
+    <string name="source_destination_not_same">સ્ત્રોતઅનેલક્ષ્યએકસરખાનહોઈશકે..</string>
+    <string name="start_date_and_end_date_can_not_be_same">પ્રારંભતારીખઅનેસમાપ્તિતારીખસમાનહોઈશકતીનથી</string>
+    <string name="choose_language">ભાષાપસંદકરો</string>
+    <string name="name">નામ</string>
+    <string name="Email">ઇમેઇલ</string>
+    <string name="Mobileno">મોબાઇલનંબર</string>
+    <string name="CollageName">કોલેજનામ</string>
+    <string name="department">વિભાગ</string>
+    <string name="Year">વર્ષ</string>
+    <string name="Enrollment_No">નોંધણીનંબર</string>
+    <string name="enter_job_profile">જોબપ્રોફાઇલદાખલકરો</string>
+    <string name="enter_job_address">જોબસરનામુંદાખલકરો</string>
+    <string name="Senior_Citizen_pass_request">વરિષ્ઠનાગરિકપાસવિનંતી</string>
+    <string name="source">સ્રોત</string>
+    <string name="destination">લક્ષ્ય</string>
+    <string name="Enddate">સમાપ્તિતારીખ</string>
+
+    <string name="validName">કૃપા કરી માન્ય નામ દાખલ કરો</string>
+    <string name="Startdate">પ્રારંભતારીખ</string>
+    <string name="JobProfile">જોબપ્રોફાઇલ</string>
+    <string name="JobAddress">જોબસરનામું</string>
+    <string name="user">વપરાશકર્તા</string>
+    <string name="collage">કોલેજઓથોરિટી</string>
+    <string-array name="category_array">
+        <item>વિદ્યાર્થી</item>
+        <item>વરિષ્ઠનાગરિક</item>
+        <item>કર્મચારી</item>
+        <item>કોલેજઓથોરિટી</item>
+        <item>એએમટીએસમેનેજર</item>
+    </string-array>
+    <string-array name="year_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="area_array">
+        <item>અદ્રજ</item>
+        <item>એડ્રોડા</item>
+        <item>એગોલ</item>
+        <item>અમદાવાદએરપોર્ટ</item>
+        <item>અમદાવાદકેન્ટોનમેન્ટ</item>
+        <item>આંબાવાડી</item>
+        <item>અંબલી</item>
+        <item>અંબલીબોપલ</item>
+        <item>અમરાઇવાડી</item>
+        <item>આનંદનગર</item>
+        <item>અસારવા</item>
+        <item>અસલાલી</item>
+        <item>આસ્ટોડિયા</item>
+        <item>આયોજનનગર</item>
+        <item>બદરખા</item>
+        <item>બગોદરા</item>
+        <item>બહિયાલ</item>
+        <item>બહલોલપુર</item>
+        <item>બાપુનગર</item>
+        <item>બારોલા</item>
+        <item>બારડોલપુરા</item>
+        <item>બારેજડી</item>
+        <item>બાવળા</item>
+        <item>બાયડ</item>
+        <item>બહેરામપુરા</item>
+        <item>ભાડજ</item>
+        <item>ભડિયાદ</item>
+        <item>ભદ્રા</item>
+        <item>ભંગેલ</item>
+        <item>ભટ</item>
+        <item>ભટ્ટ</item>
+        <item>ભોજવા</item>
+        <item>ભોલાદ</item>
+        <item>બોડકદેવ</item>
+        <item>બોપલ</item>
+        <item>કેલિકોમિલ્સ</item>
+        <item>ચલોડા</item>
+        <item>ચાણક્યપુરી</item>
+        <item>ચાંદખેડા</item>
+        <item>ચાંદલોદિયા</item>
+        <item>ચાંગોદર</item>
+        <item>ચોખંડી</item>
+        <item>ચેખલા</item>
+        <item>છારોદી</item>
+        <item>ચિલોડા</item>
+        <item>સીટીએમ</item>
+        <item>ડીકોલોની</item>
+        <item>ડભોડા</item>
+        <item>દહેગામ</item>
+        <item>દાનીલીમડા</item>
+        <item>દરિયાપુર</item>
+        <item>દક્ષિનીસોસાયટી</item>
+        <item>દિલ્હીચકલા</item>
+        <item>દિલ્હીદરવાજા</item>
+        <item>ડેટ્રોજ</item>
+        <item>ધંધુકા</item>
+        <item>ધોલેરા</item>
+        <item>ધોળકા</item>
+        <item>દુધેશ્વર</item>
+        <item>એલિસબ્રિજ</item>
+        <item>ફેડારા</item>
+        <item>ગદરપુર</item>
+        <item>ગાંધીઆશ્રમ</item>
+        <item>ગાંધીનગર</item>
+        <item>ગેરટપુર</item>
+        <item>ઘાટલોડીયા</item>
+        <item>ઘીકાંતા</item>
+        <item>ઘોડાસર</item>
+        <item>ધુમા</item>
+        <item>ગિફ્ટસિટી</item>
+        <item>ગિરધરનગર</item>
+        <item>ગીતામંદિર</item>
+        <item>ગોધવી</item>
+        <item>ગોકુલધામ</item>
+        <item>ગોમતીપુર</item>
+        <item>ગોતા</item>
+        <item>ગુલબાઈટેકરા</item>
+        <item>ગુરુકુળ</item>
+        <item>હાજીપુર</item>
+        <item>હંસોલ</item>
+        <item>હાથીજણ</item>
+        <item>હાટકેશ્વર</item>
+        <item>હોઝિયરીસંકુલ</item>
+        <item>ઇસનપુર</item>
+        <item>જગતપુર</item>
+        <item>જલીલા</item>
+        <item>જમાલપુર</item>
+        <item>જનતાનગર</item>
+        <item>જશોદાનગર</item>
+        <item>જવાહરચોક</item>
+        <item>જેતલપુર</item>
+        <item>જીવરાજપાર્ક</item>
+        <item>જોધપુર</item>
+        <item>જુહાપુરા</item>
+        <item>જુનાવડજ</item>
+        <item>કબીરચોક</item>
+        <item>કડી</item>
+        <item>કલાપીનગર</item>
+        <item>કાલી</item>
+        <item>કાલુપુર</item>
+        <item>કલ્યાણપુરા</item>
+        <item>કામીલા</item>
+        <item>કાંકરિયા</item>
+        <item>કઠવાડા</item>
+        <item>ઓક</item>
+        <item>કેશવનગર</item>
+        <item>ખાડિયા</item>
+        <item>ખમાસા</item>
+        <item>ખાનપુર</item>
+        <item>ખારના</item>
+        <item>ખેડા</item>
+        <item>ખોડીયારનગર</item>
+        <item>ખોડીયારનગર</item>
+        <item>ખોખરા</item>
+        <item>ખોરાકોલોની</item>
+        <item>કોબા</item>
+        <item>કોલાટ</item>
+        <item>કોતરપુર</item>
+        <item>કોટેશ્વર</item>
+        <item>કોથગંગડ</item>
+        <item>કૃષ્ણનગર</item>
+        <item>કુબેરનગર</item>
+        <item>કુદાસન</item>
+        <item>કુહા</item>
+        <item>લાલદરવાજા</item>
+        <item>લંભા</item>
+        <item>લપકમન</item>
+        <item>લોગાર્ડન</item>
+        <item>લક્ષ્મણપુરા</item>
+        <item>લોથલભુર્કી</item>
+        <item>માધુપુરા</item>
+        <item>મહાદેવનગર</item>
+        <item>મહુદરા</item>
+        <item>મકરબા</item>
+        <item>મમુરા</item>
+        <item>મંડળ</item>
+        <item>માણેકચોક</item>
+        <item>મણિનગર</item>
+        <item>મણિનગરપૂર્વ</item>
+        <item>મણિપુર</item>
+        <item>માંકોલ</item>
+        <item>મેઘાણીનગર</item>
+        <item>મહેમદાબાદ</item>
+        <item>મેમનગર</item>
+        <item>મિર્ઝાપુર</item>
+        <item>મીઠાખલી</item>
+        <item>મોરૈયા</item>
+        <item>મોટેરા</item>
+        <item>નલસરોવર</item>
+        <item>નાનાચિલોડા</item>
+        <item>નંદેજ</item>
+        <item>નાંદોલ</item>
+        <item>નારણપુરા</item>
+        <item>નારાયણનગર</item>
+        <item>નરોડા</item>
+        <item>નરોડાજી.આઈ.ડી.સી</item>
+        <item>નારોલ</item>
+        <item>નારોલગામ</item>
+        <item>નાસ્મેડ</item>
+        <item>નવાનરોડા</item>
+        <item>નવાવાડજ</item>
+        <item>નવરંગપુરાગામ</item>
+        <item>નવજીવન</item>
+        <item>નવરંગપુરા</item>
+        <item>નહેરુનગર</item>
+        <item>ન્યુમણિનગર</item>
+        <item>નવીરાણીપ</item>
+        <item>નિકોલ</item>
+        <item>નિર્નાયનગર</item>
+        <item>નોબલનગર</item>
+        <item>ઓધવ</item>
+        <item>ઓધવજી.આઈ.ડી.સી</item>
+        <item>ઓગનાજ</item>
+        <item>પાલડી</item>
+        <item>પાલોડિયા</item>
+        <item>પાનકોરનાકા</item>
+        <item>પાર્થલાખાનજરપુર</item>
+        <item>પથ્થરકુવા</item>
+        <item>પેથાપુર</item>
+        <item>પ્રહલાદનગર</item>
+        <item>પ્રહલાદનગરવિસ્તરણ</item>
+        <item>પુરષોત્તમનગર</item>
+        <item>રાયખડ</item>
+        <item>રેલ્વેકોલોની</item>
+        <item>રાયપુર</item>
+        <item>રકનપુર</item>
+        <item>રખિયાલ</item>
+        <item>રામદેવનગર</item>
+        <item>રામપુરા</item>
+        <item>રણચરડા</item>
+        <item>રાણીપ</item>
+        <item>રન્નાપાર્ક</item>
+        <item>રાણપુર</item>
+        <item>રાસ્કા</item>
+        <item>રતનપોલ</item>
+        <item>રેવડીબજાર</item>
+        <item>સાબરમતી</item>
+        <item>સચાના</item>
+        <item>સદરબજાર</item>
+        <item>સફરોની</item>
+        <item>સાયજપુરબોઘા</item>
+        <item>સાણંદ</item>
+        <item>સનાથલ</item>
+        <item>સંતેજ</item>
+        <item>સારંગપુર</item>
+        <item>સરસપુર</item>
+        <item>સરદારકોલોની</item>
+        <item>સરદારનગર</item>
+        <item>સરફાબાદ</item>
+        <item>સરગાસન</item>
+        <item>સરખેજ</item>
+        <item>સતાધાર</item>
+        <item>સેટેલાઇટ</item>
+        <item>સેટેલાઇટએક્સ્ટેંશન</item>
+        <item>સતલાસણા</item>
+        <item>સૈનાસસિટી</item>
+        <item>શાહીબાગ</item>
+        <item>શાપુર</item>
+        <item>શીલાજ</item>
+        <item>શ્યામલ</item>
+        <item>સિંધીઅંબાવાડી</item>
+        <item>સોલા</item>
+        <item>સોરખા</item>
+        <item>સાઉથબોપલ</item>
+        <item>સુભાષબ્રિજ</item>
+        <item>સુગદ</item>
+        <item>સુખરામપુરા</item>
+        <item>તલોદ</item>
+        <item>તાવદીપુરા</item>
+        <item>તીનદરવાજા</item>
+        <item>ઠક્કરબાપાનગર</item>
+        <item>થલતેજ</item>
+        <item>થોલ</item>
+        <item>ટ્રેગડ</item>
+        <item>યુનાલી</item>
+        <item>યુર્જનગર</item>
+        <item>ઉસ્માનપુરા</item>
+        <item>વાડજ</item>
+        <item>વડસર</item>
+
+        <item>વૈષ્ણોદેવીસર્કલ</item>
+        <item>વાસણા</item>
+        <item>વસ્ત્રાલ</item>
+        <item>વસ્ત્રાપુર</item>
+        <item>વટમાન</item>
+        <item>વટવા</item>
+        <item>વટવાજી.આઈ.ડી.સી</item>
+        <item>વાવોલ</item>
+        <item>વેજલપુર</item>
+        <item>વેજલપુરગામ</item>
+    </string-array>
+
+    <string-array name="Collage_array">
+        <item>એ.જી. ટીચર્સકોલેજ</item>
+        <item>એઇએસઇન્સ્ટિટ્યૂટઓફકમ્પ્યુટરસ્ટડીઝ</item>
+        <item>એઇએસપોસ્ટગ્રેજ્યુએટઇન્સ્ટિટ્યૂટઓફબિઝનેસમેનેજમેન્ટ</item>
+        <item>અમદાવાદડેન્ટલકોલેજઅનેહોસ્પિટલ</item>
+        <item>અમદાવાદઇન્સ્ટિટ્યૂટઓફનર્સિંગસાયન્સ, અમદાવાદ</item>
+        <item>અમદાવાદઇન્સ્ટિટ્યૂટઓફટેકનોલોજી</item>
+        <item>એએનએમએફએચડબ્લ્યુટ્રેનિંગસ્કૂલ, અમદાવાદ</item>
+        <item>બી.કે. બિઝનેસમેનેજમેન્ટનુંસ્કૂલ</item>
+        <item>પ્લાસ્ટિકએન્જિનિયરિંગઅનેટેકનોલોજીનીસેન્ટ્રલઇન્સ્ટિટ્યૂટ</item>
+        <item>પર્યાવરણીયઆયોજનઅનેટેકનોલોજીમાટેકેન્દ્રિયઅમદાવાદ</item>
+        <item>કોલેજઓફડેન્ટલસાયન્સઅનેરિસર્ચસેન્ટરઅમદાવાદ</item>
+        <item>નર્સિંગકોલેજઅમદાવાદ</item>
+        <item>ડીબીબીએસીએન-ડોબીબીઆંબેડકરકોલેજઓફનર્સિંગ</item>
+        <item>છોકરીઓમાટેસરકારીપોલિટેકનિક</item>
+        <item>સરકારીડેન્ટલકોલેજઅમદાવાદ</item>
+        <item>ગુજરાતયુનિવર્સિટીઅમદાવાદ</item>
+        <item>ગુજરાતવિદ્યાપીઠકોલેજઅમદાવાદ</item>
+        <item>આઇ.એમ.નાણાવટીલોકોલેજઅમદાવાદ</item>
+        <item>અમદાવાદમાંભારતીયસંચાલનસંસ્થા</item>
+        <item>ઇન્દિરાગાંધીરાષ્ટ્રીયખુલ્લાયુનિવર્સિટીઅભ્યાસકેન્દ્રકોલેજઓફનર્સિંગ</item>
+        <item>જેજીકોલેજઓફકોમર્સ</item>
+        <item>ગુજરાતનીનર્સિંગએજ્યુકેશનએન્ડરિસર્ચઅમદાવાદ</item>
+        <item>કેસરલમેડિકલકcollegeલેજઅનેસંશોધનસંસ્થાઅમદાવાદ</item>
+        <item>એલજેઇંસ્ટીટ્યુટઓફએન્જિનિયરિંગઅનેટેકનોલોજી</item>
+        <item>એલડીએન્જિનિયરિંગકોલાજ</item>
+        <item>એલ.એમ. ફાર્મસીકોલેજ</item>
+        <item>માણેકલાલનાનાવતીલોકોલેજ</item>
+        <item>મોતીલાલનેહરુલોકોલેજ</item>
+        <item>નવીનતમરચ્છોલાલવ્યવસાયસંચાલનસંસ્થા</item>
+        <item>નવગુજરાતલોકકોલેજ</item>
+        <item>નર્સિંગઅમદાવાદનીનવીસિવિલહોસ્પિટલસ્કૂલ</item>
+        <item>મેનેજમેન્ટનીનિર્માસંસ્થા</item>
+        <item>વિજ્andાનઅનેતકનીકનીનિર્માયુનિવર્સિટી</item>
+        <item>પેરાપ્લેગીયાઅનેતાલીમકેન્દ્રઅનેફિઝીયોથેરાપીકોલેજ</item>
+        <item>સારધનચમનલાલલાલભાઈકોલેજઅમદાવાદ</item>
+        <item>નર્સિંગસ્કૂલ, ડિવિઝનતાલીમકેન્દ્ર, બાવળાડિસેક્ટઅમદાવાદ</item>
+        <item>સેથકેએમસ્કૂલ, અનુસ્નાતકદવાઅનેસંશોધનઅમદાવાદ</item>
+        <item>સેથકેએમસ્કૂલ, અનુસ્નાતકદવાઅનેસંશોધનઅમદાવાદ</item>
+        <item>શ્રેયનર્સિંગકોલેજ</item>
+        <item>નર્સિંગવિજ્andાનઅનેસંશોધનકેન્દ્રનીશુભમસંસ્થા</item>
+        <item>સિંગીકોલેજઓફનર્સિંગઅહમદાબાદ</item>
+        <item>સરએલ એશાહલોકોલેજ</item>
+        <item>નર્સિંગનીસકુમકોલેજ</item>
+        <item>શ્રીમતી. એન એચ એલ મ્યુનિસિપલમેડિકલકોલેજઅમદાવાદ</item>
+        <item>શ્રીચિમનભાઇપટેલમેનેજમેન્ટએન્ડરિસર્ચઇન્સ્ટિટ્યૂટ</item>
+        <item>વિવેકાનંદકોલેજઓફલોઓફઅમદાવાદ</item>
+        <item>વિશ્વકર્માસરકારીએન્જિનિયરિંગકોલેજ</item>
+        <item>સાલએન્જિનિયરિંગઅનેતકનીકીસંસ્થા</item>
+        <item>સિલ્વરઓકકોલેજએન્જિનિયરિંગઅનેટેકનોલોજી</item>
+    </string-array>
+
+    <string-array name="Collage_address_array">
+        <item>અમદાવાદયુનિવર્સિટીરોડ, નવરંગપુરા, અમદાવાદ, ગુજરાત</item>
+        <item>એચ. એલ.કોલેજકેમ્પસ, પી. બી. નંબર4206, નવરંગપુરા, અમદાવાદ, ગુજરાત</item>
+        <item>16, વિક્રમસારાભાઇમાર્ગ, નવરંગપુરા, અમદાવાદ, ગુજરાત</item>
+    </string-array>
+
+    <string name="enter_correct_pswd"> સાચો પાસવર્ડ દાખલ કરો </string>
+    <string name="Password_length_must_be_8"> પાસવર્ડ લંબાઈ 8 અંકથી વધુ હોવી આવશ્યક છે </string>
+    <string name="click_here_to_select_image_from_gallery"> તમારું આધાર કાર્ડ પસંદ કરો </string>
+    <string name="click_here_to_upload_selected_image_on_server"> તમારું આધાર કાર્ડ અપલોડ કરો </string>
+    <string name="enter_aadhard_card_number"> આધારકાર્ડ નંબર દાખલ કરો </string>
+    <string name="registration"> નોંધણી </string>
+    <string name="Update_Profile"> પ્રોફાઇલ અપડેટ કરો </string>
+    <string name="pass_request"> વિનંતી પાસ કરો </string>
+    <string name="home"> હોમ </string>
+
+    <string-array name="Collage_address_mobileno">
+        <item>+91-79-26442451</item>
+        <item>+91-79-26402987</item>
+        <item>+91-79-26301302</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">નમસ્તે કોરો ટુકડો</string>
+    <string name="Category">જાતિ</string>
+    <string name="Birthdate">જન્મતારીખ</string>
+    <string name="Destination">લક્ષ્ય</string>
+    <string name="Source">સ્ત્રોત</string>
+    <string name="StartDate">પ્રારંભતારીખ</string>
+    <string name="passStatus">પાસ સ્થિતિ</string>
+    <string name="employee_bus_pass">કર્મચારી બસ પાસ વિનંતી બાકી છે</string>
+    <string name="Gender">લિંગ</string>
+
+
+
+</resources>
+

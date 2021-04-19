@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.ViewStudentData"
+    android:orientation="vertical"
+>
+
+<View
+    android:layout_width="match_parent"
+    android:layout_height="400dp"
+    android:id="@+id/bg_top_header"
+    app:layout_constraintHorizontal_bias="0.0"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    android:background="@drawable/ic_bg_topheader"/>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.ViewStudentData"
+    android:orientation="vertical"
+    android:id="@+id/activity_student_view">
+    <TextView
+        style="@style/TextViewTheme"
+        android:id="@+id/tvName"
+        android:text="@string/name"/>
+    <TextView
+        style="@style/TextViewTheme"
+        android:id="@+id/tvEmail"
+        android:text="@string/Email"/>
+    <TextView
+        style="@style/TextViewTheme"
+        android:id="@+id/tvPhone"
+        android:text="@string/Mobileno"/>
+    <TextView
+        style="@style/TextViewTheme"
+        android:id="@+id/tvGender"
+        android:text="@string/Gender"/>
+    <TextView
+        style="@style/TextViewTheme"
+        android:id="@+id/tvBirthdate"
+        android:text="@string/Birthdate"/>
+    <TextView
+        style="@style/TextViewTheme"
+        android:id="@+id/tvCategory"
+        android:text="@string/Category"/>
+
+</LinearLayout>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

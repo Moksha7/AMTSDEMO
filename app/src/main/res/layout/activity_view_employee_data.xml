@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.ViewEmployeeData"
+    android:orientation="vertical">
+<View
+    android:layout_width="match_parent"
+    android:layout_height="400dp"
+    android:id="@+id/bg_top_header"
+    app:layout_constraintHorizontal_bias="0.0"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    android:background="@drawable/ic_bg_topheader"/>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.ViewEmployeeData"
+    android:orientation="vertical">
+
+    <TextView
+        style="@style/TextViewTheme"
+        android:id="@+id/tvName"
+        android:text="@string/name"/>
+    <TextView
+        style="@style/TextViewTheme"
+        android:id="@+id/tvEmail"
+        android:text="@string/Email"/>
+    <TextView
+        style="@style/TextViewTheme"
+        android:id="@+id/tvPhone"
+        android:text="@string/Mobileno"/>
+    <TextView
+        style="@style/TextViewTheme"
+        android:id="@+id/tvJobProfile"
+        android:text="@string/JobProfile"/>
+    <TextView
+        style="@style/TextViewTheme"
+        android:id="@+id/tvJobAddress"
+        android:text="@string/JobAddress"/>
+    <TextView
+        style="@style/TextViewTheme"
+        android:id="@+id/tvSource"
+        android:text="@string/source"/>
+    <TextView
+        style="@style/TextViewTheme"
+        android:id="@+id/tvDestination"
+        android:text="@string/destination"/>
+    <TextView
+        style="@style/TextViewTheme"
+        android:id="@+id/tvStartdate"
+        android:text="@string/Startdate"/>
+    <TextView
+        style="@style/TextViewTheme"
+        android:id="@+id/tvEndDate"
+        android:text="@string/Enddate"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/btnNext"
+        android:text="Next"/>
+
+</LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

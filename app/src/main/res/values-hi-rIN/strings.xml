@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="admin">व्यवस्थापक</string>
+    <string name="Employee">कर्मचारी</string>
+    <string name="Change_Lauguage">भाषा बदलें</string>
+    <string name="senior_citizen">वरिष्ठ नागरिक</string>
+    <string name="app_name">एएमटीएस ईपास</string>
+    <string name="AMTS_EPASS">एएमटीएस ईपास</string>
+    <string name="login_with_email">ईमेल के साथ लॉगिन करें</string>
+    <string name="creat_a_new_account">एक नया खाता बनाएं</string>
+
+    <string name="validName"> कृपया मान्य नाम दर्ज करें</string>
+    <string name="register">रजिस्टर करें</string>
+    <string name="an_e_pass_service_from_us"><font color='#6200EE'>एक <b>ई-पास</b> हमारे से सेवा</font></string>
+    <string name="htmlFormattedText">
+        <font color='#757272'>  आगे बढ़कर, आप हमारी बात से सहमत हैं</font> <font color='#6200EE'><b>नियम व शर्तें</b></font> <font color='#757272'> तथा</font>
+<font color='#6200EE'><b> गोपनीयता नीति </b></font>
+    </string>
+    <string name="todo" />
+    <string name="open">खुला हुआ</string>
+    <string name="close">बंद करे</string>
+    <string name="student">छात्र</string>
+    <string name="amts_manager"> एएमटीएस मैनेजर</string>
+    <string name="collage_authority">कोलाज प्राधिकरण
+</string>
+    <string name="Login"> लॉग इन करें</string>
+    <string name="email">ईमेल आईडी दर्ज करें</string>
+    <string name="Password">पास वर्ड दर्ज करें</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="studentName">अपना नाम दर्ज करें</string>
+    <string name="Collage">कोलाज़ नाम दर्ज करें</string>
+    <string name="Select_BirthDate">जन्म तिथि चुनें</string>
+    <string name="Register">रजिस्टर करें</string>
+    <string name="ReenterPassword">पासवर्ड फिर से दर्ज करें</string>
+    <string name="studentLogin">छात्र लॉग इन करें</string>
+    <string name="GeneratePassRequest">पास उत्पन्न करें</string>
+    <string name="Payment">भुगतान</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="mobileno">मोबाइल नंबर दर्ज करें</string>
+    <string name="select_Gender">लिंग चुनें</string>
+    <string name="Male">पुरुष</string>
+    <string name="Female">महिला</string>
+    <string name="select_Category">श्रेणी चुनना</string>
+    <string name="email_error1">सही ईमेल दर्ज करें</string>
+    <string name="select_Source">स्रोत स्टेशन चुनें</string>
+    <string name="select_Destination">गंतव्य क्षेत्र चुनें </string>
+    <string name="choose_end_date">अंतिम दिनांक चुनें</string>
+    <string name="choose_start_date">प्रारंभ दिनांक चुनें</string>
+    <string name="student_pass_request">छात्र का अनुरोध</string>
+    <string name="enter_collage_name">कोलाज़ नाम दर्ज करें</string>
+    <string name="enter_department_name">विभाग का नाम दर्ज करें</string>
+    <string name="enter_enrollment_no">एनरोलमेंट नंबर दर्ज करें</string>
+    <string name="choose_year">वर्ष चुनें</string>
+    <string name="Confirm">पुष्टि करें</string>
+    <string name="already_member_login">पहले से ही सदस्य !! लॉग इन करें</string>
+    <string name="no_account_yet_create_one">कोई खाता नहीं फिर भी ??? एक बनाए</string>
+    <string name="logout">लॉग आउट</string>
+    <string name="settings">समायोजन</string>
+    <string name="my_account">मेरा खाता</string>
+    <string name="nav_open">खुला हुआ</string>
+    <string name="nav_close">बंद करे</string>
+    <string name="senior_citizen_pass_request">वरिष्ठ नागरिक पास अनुरोध</string>
+    <string name="employee_pass_request">कर्मचारी पास अनुरोध</string>
+    <string name="amts_manager_">एएमटीएस प्रबंधक</string>
+
+    <string name="next">अगला</string>
+    <string name="select_collage">आपका कोलाज चुनें</string>
+    <string name="source_destination_not_same">स्रोत और गंतव्य क्षेत्र एक नहीं हो सकते।</string>
+    <string name="start_date_and_end_date_can_not_be_same">प्रारंभ दिनांक और समाप्ति दिनांक समान नहीं हो सकती</string>
+    <string name="choose_language">भाषा चुनें</string>
+    <string name="name">नाम</string>
+    <string name="Email">ईमेल</string>
+    <string name="Mobileno">मोबाइल नंबर</string>
+    <string name="CollageName">कोलाज़ नाम</string>
+    <string name="department">विभाग</string>
+    <string name="Year">
+साल</string>
+    <string name="Enrollment_No">नामांकन संख्या</string>
+    <string name="enter_job_profile">जॉब प्रोफाइल दर्ज करें</string>
+    <string name="enter_job_address">नौकरी का पता दर्ज करें</string>
+    <string name="Senior_Citizen_pass_request">वरिष्ठ नागरिक पास अनुरोध</string>
+    <string name="source">स्रोत</string>
+    <string name="destination">गंतव्य</string>
+    <string name="Enddate">अंतिम दिनांक </string>
+    <string name="Startdate">प्रारंभ दिनांक </string>
+    <string name="JobProfile">जॉब प्रोफाइल</string>
+    <string name="JobAddress">नौकरी का पता</string>
+    <string name="user">उपयोगकर्ता</string>
+    <string name="collage">कोलाज प्राधिकरण</string>
+    <string name="enter_correct_pswd"> सही पासवर्ड दर्ज करें </string>
+
+    <string name="Password_length_must_be_8"> पासवर्ड की लंबाई 8 अंकों से अधिक होनी चाहिए </string>
+
+    <string name="click_here_to_select_image_from_gallery"> अपने आधार कार्ड का चयन करे </string>
+
+    <string name="click_here_to_upload_selected_image_on_server">अपने आधार कार्ड का उपयोग करें </string>
+
+    <string name="enter_aadhard_card_number">आधार कार्ड नंबर डालें </string>
+
+    <string name="registration"> पंजीकरण </string>
+
+    <string name="Update_Profile">प्रोफ़ाइल अपडेट करें </string>
+
+    <string name="pass_request"> पास निवेदन </string>
+
+    <string name="home"> घर </string>
+    <string-array name="category_array">
+        <item>छात्र</item>
+        <item>वरिष्ठ नागरिक</item>
+        <item>कर्मचारी</item>
+        <item>कोलाज प्राधिकरण</item>
+        <item> एएमटीएस प्रबंधक</item>
+    </string-array>
+    <string-array name="year_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="area_array">
+        <item>अदराज</item>
+        <item>अड़ोदा</item>
+        <item>अगोल</item>
+        <item>अहमदाबाद एयरपोर्ट</item>
+        <item>अहमदाबाद छावनी</item>
+        <item>अम्बावाड़ी</item>
+        <item>अम्बली</item>
+        <item>अम्बली बोपल</item>
+        <item>अमराईवाड़ी</item>
+        <item>आनंद नगर</item>
+        <item>असरवा</item>
+        <item>असलाली</item>
+        <item>आस्टोडिया</item>
+        <item>अयोजन नगर</item>
+        <item>बदरखा</item>
+        <item>बगोदर</item>
+        <item>बहियाल</item>
+        <item>बहलोलपुर</item>
+        <item>बापूनगर</item>
+        <item>बरौला</item>
+        <item>बारदोलपुरा</item>
+        <item>बरजादी</item>
+        <item>बावला</item>
+        <item>बेआद</item>
+        <item>बेहरामपुरा</item>
+        <item>भाड़ज </item>
+
+        <item>भदयाद </item>
+        <item>भद्र </item>
+        <item>भंगेल </item>
+        <item>भट्ट </item>
+        <item>भट्टा </item>
+        <item>भोजवा </item>
+        <item>भोलड़ </item>
+        <item>बोदकदेव </item>
+        <item> बोपल</item>
+        <item>कैलिको मिल्स </item>
+        <item>चलोड़ा </item>
+        <item>चाणक्यपुरी </item>
+        <item>चांदखेड़ा </item>
+        <item>चांदलोडिया </item>
+        <item> चानगोडार</item>
+        <item>चौखंडी </item>
+        <item> चेखला</item>
+        <item>छारोड़ी </item>
+        <item>चिलोदा </item>
+        <item>सीटीएम </item>
+        <item>डी कॉलोनी </item>
+        <item>दाभोदा </item>
+        <item>दाहगाम </item>
+        <item>दानी लिमडा </item>
+        <item> दरियापुर </item>
+        <item> दक्षिनी सोसायटी</item>
+        <item> दिल्ली चकला </item>
+        <item> दिल्ली दरवाजा </item>
+        <item>डेट्रोज </item>
+        <item>धनधूका</item>
+        <item> धोलेरा </item>
+        <item>ढोलका </item>
+        <item>दुधेश्वर </item>
+        <item>एलिस ब्रिज </item>
+        <item>फेडारा </item>
+        <item>गदरपुर </item>
+        <item>गांधी आश्रम </item>
+        <item> गांधीनगर</item>
+        <item> गरतपुर </item>
+        <item> घाटलोडिया </item>
+        <item> घीकांटा </item>
+        <item> घोडासर </item>
+        <item> घुमा </item>
+        <item> गिफ्ट सिटी </item>
+        <item> गिरधर नगर </item>
+        <item> गीता मंदिर </item>
+        <item> गोधवी </item>
+        <item> गोकुल धाम </item>
+        <item> गोमतीपुर </item>
+        <item> मिला </item>
+        <item> गुलबाई टेकरा </item>
+        <item> गुरुकुल </item>
+        <item> हाजीपुर </item>
+        <item> हंसोल </item>
+        <item> हाथीजन </item>
+        <item> हाटकेशवर </item>
+        <item> होजरी परिसर </item>
+        <item> इसानपुर </item>
+        <item> जगतपुर </item>
+        <item> जलिला </item>
+        <item> जमालपुर</item>
+        <item> जनता नगर </item>
+        <item> जशोदा नगर </item>
+        <item> जवाहर चौक </item>
+        <item> जमालपुर</item>
+        <item> जीवराज पार्क </item>
+        <item> जोधपुर</item>
+        <item> जुहापुरा</item>
+        <item> जूना वडज </item>
+        <item> कबीर चौक</item>
+        <item> कादी </item>
+        <item> कलापी नगर</item>
+        <item> काली</item>
+        <item> कालूपुर</item>
+        <item> कल्याणपुरा</item>
+        <item> कामियाला</item>
+        <item> कांकरिया</item>
+        <item> कथवाड़ा </item>
+        <item> औका </item>
+        <item> केशव नगर</item>
+        <item> खड़िया </item>
+        <item> खमासा</item>
+        <item> खानपुर</item>
+        <item> खरना</item>
+        <item> खेड़ा</item>
+        <item> खोदीयर नगर </item>
+        <item> खोदीयर नगर </item>
+        <item> खोखरा</item>
+        <item> खोरा कॉलोनी </item>
+        <item> कोबा</item>
+        <item> कोल्लत</item>
+        <item> कोटपुर</item>
+        <item> कोटेश्वर</item>
+        <item> कोथगंगाड</item>
+        <item> कृष्णनगर</item>
+        <item> कुबेर नगर</item>
+        <item> कुदासन</item>
+        <item> कुहा </item>
+        <item>लाल दरवाजा </item>
+        <item> लाम्भा </item>
+        <item> लपकमन </item>
+        <item> लॉ गार्डन </item>
+        <item> लक्ष्मणपुरा </item>
+        <item> लोथल भूरकी</item>
+        <item> मधुपुरा</item>
+        <item> महादेव नगर</item>
+        <item> महुदरा</item>
+        <item> मकरबा</item>
+        <item> मामूरा</item>
+        <item> मांडल</item>
+        <item> मानेक चौक</item>
+        <item> मणिनगर </item>
+        <item> मणिनगर पूर्व</item>
+        <item> मणिपुर</item>
+        <item> मनकोल</item>
+        <item> मेघानी नगर</item>
+        <item> मेहमदाबाद</item>
+        <item> मेमनगर</item>
+        <item> मिर्जापुर</item>
+        <item> मिथाखली</item>
+        <item> मोरैया</item>
+        <item> मोटेरा</item>
+        <item> नालसरोवर </item>
+        <item> नाना चिलोदा </item>
+        <item> नंदजे</item>
+        <item> नंदोल </item>
+        <item> नारनपुरा </item>
+        <item> नारायण नगर </item>
+        <item> नरोडा</item>
+        <item> नरोदा जीआईडीसी</item>
+        <item> नारोल</item>
+        <item> नारोलगाम </item>
+        <item> नासमेद</item>
+        <item> नवा नरोडा </item>
+        <item> नवा वाडज</item>
+        <item> नवरंगपुरा गाम </item>
+        <item> नवजीवन </item>
+        <item> नवरंग पूरा </item>
+        <item> नेहरू नगर </item>
+        <item> नई मणिनगर</item>
+        <item> नया रानिप</item>
+        <item> निकोल</item>
+        <item> निर्णय नगर</item>
+        <item> नोबल नगर</item>
+        <item> ओधव</item>
+        <item> ओधव जीआईडीसी </item>
+        <item> ओगनज</item>
+        <item> पालडी</item>
+        <item> पलोदिया</item>
+        <item> पनकोर नाका</item>
+        <item> पर्थला खंजरपुर</item>
+        <item> पत्थर कुवा</item>
+        <item> पेथापुर</item>
+        <item> प्रह्लाद नगर </item>
+        <item> प्रहलाद नगर एक्सटेंशन</item>
+        <item> पुरुषोत्तम नगर</item>
+        <item> रायखड </item>
+        <item>रेलवे कॉलोनी </item>
+        <item>रायपुर </item>
+        <item> रतनपुर</item>
+        <item> राखियाल </item>
+        <item>रामदेव नगर </item>
+        <item> रामपुरा </item>
+        <item>रंचधर </item>
+        <item> रानिप </item>
+        <item>रणना पार्क </item>
+        <item> रानपुर </item>
+        <item>रास्का </item>
+        <item> रतन पोल </item>
+        <item> रेवड़ी बाजार </item>
+        <item> साबरमती </item>
+        <item> सचाना </item>
+        <item>सदर बाजार </item>
+        <item> सैफ़रोनी </item>
+        <item> सियाजपुर बोघा</item>
+        <item>साणंद </item>
+        <item>सनाथाल</item>
+        <item> संताज </item>
+        <item> सारंगपुर </item>
+        <item> सरसपुर </item>
+        <item> सरदार कॉलोनी </item>
+        <item> सरदार नगर </item>
+        <item> सरफाबाद </item>
+        <item>सरगासन </item>
+        <item>सरखेज </item>
+        <item>सताधार</item>
+        <item> सैटेलाइट </item>
+        <item>सैटेलाइट एक्सटेंशन </item>
+        <item> सतलसाना </item>
+        <item> साइंस सिटी </item>
+        <item> शाहीबाग </item>
+        <item> शाहपुर </item>
+        <item> शिलाज </item>
+        <item> श्यामल </item>
+        <item> सिंधी अंबावड़ी </item>
+        <item> सोला </item>
+        <item> सोरखा </item>
+        <item> दक्षिण बोपाल </item>
+        <item> सुभाष ब्रिज </item>
+        <item> सुघड़ </item>
+        <item> सुखरामपुरा  </item>
+        <item> तलोड़ </item>
+        <item> तवदीपुरा </item>
+        <item> किशोर दरवाजा </item>
+        <item> ठक्करबापा नगर </item>
+        <item> थलतेज </item>
+        <item> थोल </item>
+        <item> त्रैगद </item>
+        <item> उनाली </item>
+        <item> उर्जानगर </item>
+        <item> उस्मानपुरा </item>
+        <item> वादज </item>
+        <item> वदसार </item>
+        <item> वैष्णोदेवी सर्किल </item>
+        <item> वासना </item>
+        <item> वस्त्राल </item>
+        <item> वस्त्रापुर </item>
+        <item> वतमन </item>
+        <item> वटवा </item>
+        <item> वटवा जीआईडीसी </item>
+        <item>वावोल </item>
+        <item> वेजलपुर </item>
+        <item> वेजलपुर गाम </item>    </string-array>
+
+    <string-array name="Collage_array">
+        <item>ए. जी शिक्षक महाविद्यालय</item>
+        <item>एईएस इंस्टीट्यूट ऑफ कंप्यूटर स्टडीज</item>
+        <item>एईएस पोस्ट ग्रेजुएट इंस्टीट्यूट ऑफ बिजनेस मैनेजमेंट</item>
+        <item>अहमदाबाद डेंटल कोलाज एंड हॉस्पिटल</item>
+        <item>अहमदाबाद इंस्टीट्यूट ऑफ नर्सिंग साइंसेज, अहमदाबाद</item>
+        <item>अहमदाबाद प्रौद्योगिकी संस्थान</item>
+        <item>एएनएम एफएचडब्ल्यू ट्रानिंग स्कूल, अहमदाबाद</item>
+        <item> बी.के. व्यवसाय प्रबंधन का स्कूल</item>
+        <item> प्लास्टिक इंजीनियरिंग और प्रौद्योगिकी के केंद्रीय संस्थान </item>
+        <item> पर्यावरण नियोजन और प्रौद्योगिकी के लिए केंद्रीय अहमदाबाद</item>
+        <item> दंत चिकित्सा महाविद्यालय और अनुसंधान केंद्र अहमदाबाद</item>
+        <item> कॉलेज ऑफ नर्सिंग अहमदाबाद</item>
+        <item> डीबीआरएसीएन-डॉ बी आर अंबेडकर कॉलेज ऑफ नर्सिंग</item>
+        <item> लड़कियों के लिए सरकारी पॉलिटेक्निक </item>
+        <item>सरकारी डेंटल कॉलेज अहमदाबाद</item>
+        <item>गुजरात विश्वविद्यालय अहमदाबाद</item>
+        <item> गुजरात विद्यापीठ महाविद्यालय अहमदाबाद</item>
+        <item> आई . एम . नवाति लॉ कॉलेज अहमदाबाद</item>
+        <item>अहमदाबाद में प्रबंधन का भारतीय संस्थान</item>
+        <item>इंदिरा गाँधी राष्ट्रीय मुक्त विश्वविद्यालय अध्ययन केंद्र कॉलेज ऑफ नर्सिंग</item>
+        <item> जे जी  कॉलेज ऑफ कॉमर्स </item>
+        <item>नर्सिंग शिक्षा और अनुसंधान अहमदाबाद के गुजरात संस्थान</item>
+        <item>केसरल मेडिकल कॉलेज और अनुसंधान संस्थान अहमदाबाद </item>
+        <item>एल जे इंस्टीट्यूट ऑफ इंजीनियरिंग एंड टेक्नोलॉजी</item>
+        <item> एल डी इंजीनियरिंग महाविद्यालय</item>
+        <item> एल. एम. फार्मेसी का कॉलेज</item>
+        <item>मानेकलाल नानावटी लॉ कॉलेज</item>
+        <item>मोतीलाल नेहरू लॉ कॉलेज</item>
+        <item>व्यापार प्रबंधन के नवजात राचौल संस्थान</item>
+        <item>नवगुजरात लॉ कॉलेज</item>
+        <item> नया सिविल अस्पताल स्कूल ऑफ नर्सिंग अहमदाबाद </item>
+        <item> प्रबंधन का निरमा संस्थान</item>
+        <item> विज्ञान और प्रौद्योगिकी के निरमा विश्वविद्यालय</item>
+        <item> पेरापीलेगया और प्रशिक्षण केंद्र और फिजियोथेरेपी कॉलेज</item>
+        <item> सरभन चिमनलाल लालभाई कोलाज अहमदाबाद</item>
+        <item>स्कूल ऑफ नर्सिंग, डिवीजन ट्रेनिंग सेंटर, बावला, विक्टिम अहमदाबाद </item>
+        <item> स्नातकोत्तर चिकित्सा और अनुसंधान अहमदाबाद का सेठ एम स्कूल</item>
+        <item> स्नातकोत्तर चिकित्सा और अनुसंधान अहमदाबाद का सेठ एम स्कूल</item>
+        <item> श्रेय नर्सिंग कोलाज</item>
+        <item> शुभम इंस्टीट्यूट ऑफ नर्सिंग साइंस एंड रिसर्च सेंटर</item>
+        <item> सिंघी कॉलेज ऑफ नर्सिंग अहमदाबाद</item>
+        <item> सर एल. ए शाह कम कोलाज</item>
+        <item> स्कम कॉलेज ऑफ नर्सिंग</item>
+        <item> श्रीमती एन. एच. एल. म्युनिसिपल मेडिकल कॉलेज अहमदाबाद</item>
+        <item> प्रबंधन और अनुसंधान के श्री चिमनभाई पटेल संस्थान</item>
+        <item> विवेकानंद कॉलेज ऑफ लॉ अहमदाबाद</item>
+        <item> विश्वकर्मा सरकारी इंजीनियरिंग कॉलेज</item>
+        <item> साल इंजीनियरिंग और तकनीकी संस्थान</item>
+        <item> इंजीनियरिंग और प्रौद्योगिकी के रजत ओक कॉलेज</item
+            >
+    </string-array>
+
+    <string-array name="Collage_address_array">
+        <item>अहमदाबाद यूनिवर्सिटी रोड, नवरंगपुरा, अहमदाबाद, गुजरात</item>
+        <item>एच। एल। कॉलेज परिसर, पी। बी। नंबर 4206, नवरंगपुरा, अहमदाबाद, गुजरात</item>
+        <item>16, विक्रम साराभाई मार्ग, नवरंगपुरा, अहमदाबाद, गुजरात</item>
+    </string-array>
+
+    <string-array name="Collage_address_mobileno">
+        <item>+91-79-26442451</item>
+        <item>+91-79-26402987</item>
+        <item>+91-79-26301302</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment"> हैलो खाली जगह </string>
+    <string name="Category"> वर्ग </string>
+    <string name="Birthdate"> जन्म तिथि </string>
+    <string name="Destination"> गंतव्य </string>
+    <string name="Source"> स्रोत </string>
+    <string name="StartDate"> प्रारंभ दिनांक </string>
+    <string name="passStatus"> पास की स्थिति </string>
+    <string name="employee_bus_pass"> कर्मचारी बस पास अनुरोध लंबित है </string>
+    <string name="Gender"> लिंग </string>
+</resources>
+

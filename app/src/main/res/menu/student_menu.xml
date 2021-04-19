@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group >
+        <item
+            android:id="@+id/mStudentLogin"
+            android:title="@string/studentLogin" />
+        <item
+            android:id="@+id/mGeneratePassRequest"
+            android:title="@string/GeneratePassRequest" />
+        <item
+            android:id="@+id/mPayment"
+            android:title="@string/Payment" />
+       </group>
+</menu>

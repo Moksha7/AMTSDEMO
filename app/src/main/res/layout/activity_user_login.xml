@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.UserLogin">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:id="@+id/bg_top_header"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="@drawable/ic_bg_topheader"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <!--<include
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        layout="@layout/app_toolbar"
+        />
+-->
+
+    <TextView
+        android:id="@+id/tvUserInfo"
+        android:text="@string/Login"
+        style="@style/TextViewTheme"
+        android:textAlignment="center"
+        android:textSize="30sp" />
+
+    <EditText
+        android:id="@+id/etEmail"
+        android:hint="@string/email"
+        style="@style/EditTextTheme"
+        android:inputType="textEmailAddress"
+        android:importantForAutofill="no"
+        android:drawableEnd="@drawable/ic_baseline_email_24"/>
+
+    <EditText
+        android:id="@+id/etPassword1"
+        style="@style/EditTextTheme"
+        android:hint="@string/Password"
+        android:inputType="textPassword"
+        android:importantForAutofill="no"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+    <Button
+        android:id="@+id/btnLogin"
+        style="@style/ButtonTheme"
+        android:layout_weight="1"
+        android:text="@string/login"
+        />
+
+    <Button
+        android:id="@+id/btnCancel"
+        style="@style/ButtonTheme"
+        android:text="@string/cancel"
+        android:layout_weight="1"
+        />
+    </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvNewAccount"
+            android:text="@string/no_account_yet_create_one"
+            style="@style/TextViewTheme"
+            android:textAlignment="center"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

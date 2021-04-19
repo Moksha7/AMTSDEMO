@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.UploadImage"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/click_here_to_select_image_from_gallery"
+        android:id="@+id/buttonSelect"
+        android:layout_marginTop="30dp"
+         />
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="270dp"
+        android:id="@+id/imageView"
+        android:layout_above="@+id/editTextImageName" />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextImageName"
+        android:hint="@string/enter_aadhard_card_number"
+        android:gravity="center"
+        android:inputType="number"
+        />
+
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/click_here_to_upload_selected_image_on_server"
+        android:id="@+id/buttonUpload"
+         />
+
+    <Button
+        android:id="@+id/buttonNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="30dp"
+        android:text="@string/next" />
+
+
+</LinearLayout>

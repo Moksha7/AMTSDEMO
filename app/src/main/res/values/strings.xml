@@ -1,0 +1,435 @@
+<resources>
+    <string name="app_name">AMTS E-PASS</string>
+    <string name="AMTS_EPASS">AMTS E-PASS </string>
+    <string name="login_with_email">LOGIN WITH EMAIL</string>
+    <string name="creat_a_new_account">Create a new account</string>
+    <string name="register">Register</string>
+    <string name="an_e_pass_service_from_us"><font color='#6200EE'>An <b>e-Pass</b> Service from Us</font></string>
+    <string name="htmlFormattedText">
+        <font color='#757272'>  By proceeding , you agree to our</font> <font color='#6200EE'><b>Terms and Condition</b></font> <font color='#757272'>and </font><font color='#6200EE'><b>Privacy policy</b></font>
+    </string>
+    <string name="todo" />
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="student">Student</string>
+    <string name="amts_manager">Amts Manager</string>
+    <string name="collage_authority">Collage Authority</string>
+    <string name="Login"> Login</string>
+    <string name="email">Enter Email id</string>
+    <string name="Password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="studentName">Enter your Name</string>
+    <string name="Collage">Enter Collage Name</string>
+    <string name="Select_BirthDate">Select Birth Date</string>
+    <string name="Register">Register</string>
+    <string name="ReenterPassword">Reenter Password</string>
+    <string name="studentLogin">Student Login</string>
+    <string name="GeneratePassRequest">Generate Pass Request</string>
+    <string name="Payment">Payment</string>
+    <string name="cancel">Cancel</string>
+    <string name="mobileno">Enter Mobile No</string>
+    <string name="select_Gender">Select Gender</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="select_Category">Select Category</string>
+    <string name="email_error1">Enter Correct Email</string>
+    <string name="select_Source">Select Source Station</string>
+    <string name="select_Destination">Select Destination Area</string>
+    <string name="choose_end_date">Choose End Date</string>
+    <string name="choose_start_date">Choose Start Date</string>
+    <string name="student_pass_request">Student Pass Request</string>
+    <string name="enter_collage_name">Enter Collage Name</string>
+    <string name="enter_department_name">Enter Department Name</string>
+    <string name="enter_enrollment_no">Enter Enrollment No</string>
+    <string name="choose_year">Choose Year</string>
+    <string name="Confirm">Confirm</string>
+    <string name="already_member_login">Already Member!! LOGIN</string>
+    <string name="no_account_yet_create_one">No Account Yet??? Create One</string>
+    <string name="logout">Logout</string>
+    <string name="settings">Settings</string>
+    <string name="my_account">My Account</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="senior_citizen_pass_request">Senior Citizen Pass Request</string>
+    <string name="employee_pass_request">Employee Pass Request</string>
+    <string name="amts_manager_">AMTS Manager</string>
+
+    <string name="next">Next</string>
+    <string name="select_collage">Select Your Collage</string>
+    <string name="source_destination_not_same">Souce and Destination can\'t be same.</string>
+    <string name="start_date_and_end_date_can_not_be_same">Start Date and End Date can not be same</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="name">Name</string>
+    <string name="Email">Email</string>
+    <string name="Mobileno">Mobile No</string>
+    <string name="CollageName">Collage Name</string>
+    <string name="department">Department</string>
+    <string name="Year">Year</string>
+    <string name="Enrollment_No">Enrollment No</string>
+    <string name="enter_job_profile">Enter Job Profile</string>
+    <string name="enter_job_address">Enter Job Address</string>
+    <string name="Senior_Citizen_pass_request">Senior Citizen Pass Request</string>
+    <string name="source">Source</string>
+    <string name="destination">Destination</string>
+    <string name="Enddate">End Date</string>
+    <string name="Startdate">Start Date</string>
+    <string name="JobProfile">Job Profile</string>
+    <string name="JobAddress">Job Address</string>
+    <string name="admin">Admin</string>
+    <string name="Employee">Employee</string>
+    <string name="senior_citizen">Senior Citizen</string>
+    <string name="Change_Lauguage">Change Languages</string>
+    <string name="user">User</string>
+    <string name="collage">College Authority</string>
+    <string name="validName">Please Enter Valid Name</string>
+    <string name="enter_correct_pswd">Enter correct password</string>
+    <string name="Password_length_must_be_8">Password Length must be more than 8 digit</string>
+    <string name="click_here_to_select_image_from_gallery">CHOOSE YOUR AADHAR CARD</string>
+    <string name="click_here_to_upload_selected_image_on_server">UPLOAD YOUR AADHAR CARD</string>
+    <string name="enter_aadhard_card_number">Enter Aadhard card Number</string>
+    <string name="registration">Registration</string>
+    <string name="Update_Profile">Update Profile</string>
+    <string name="pass_request">PassRequest</string>
+    <string name="home">Home</string>
+
+
+    <string-array name="category_array">
+        <item>Student</item>
+        <item>Senior Citizen</item>
+        <item>Employee</item>
+        <item>College Authority</item>
+        <item>AMTS Manager</item>
+    </string-array>
+    <string-array name="year_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="area_array">
+        <item>Adraj</item>
+        <item>Adroda</item>
+        <item>Agol</item>
+        <item>Ahmedabad Airport</item>
+        <item>Ahmedabad Cantonment</item>
+        <item>Ambawadi</item>
+        <item>Ambli</item>
+        <item>Ambli Bopal</item>
+        <item>Amraiwadi</item>
+        <item>Anand Nagar</item>
+        <item>Asarwa</item>
+        <item>Aslali</item>
+        <item>Astodia</item>
+        <item>Ayojan Nagar</item>
+        <item>Badarkha</item>
+        <item>Bagodara</item>
+        <item>Bahiyal</item>
+        <item>Bahlolpur</item>
+        <item>Bapunagar</item>
+        <item>Baraula</item>
+        <item>Bardolpura</item>
+        <item>Barejadi</item>
+        <item>Bavla</item>
+        <item>Bayad</item>
+        <item>Behrampura</item>
+        <item>Bhadaj</item>
+        <item>Bhadiyad</item>
+        <item>Bhadra</item>
+        <item>Bhangel</item>
+        <item>Bhat</item>
+        <item>Bhatta</item>
+        <item>Bhojva</item>
+        <item>Bholad</item>
+        <item>Bodakdev</item>
+        <item>Bopal</item>
+        <item>Calico Mills</item>
+        <item>Chaloda</item>
+        <item>Chanakyapuri</item>
+        <item>Chandkheda</item>
+        <item>Chandlodiya</item>
+        <item>Changodar</item>
+        <item>Chaukhandi</item>
+        <item>Chekhla</item>
+        <item>Chharodi</item>
+        <item>Chiloda</item>
+        <item>CTM</item>
+        <item>D Colony</item>
+        <item>Dabhoda</item>
+        <item>Dahegam</item>
+        <item>Dani Limda</item>
+        <item>Dariapur</item>
+        <item>Daxini Society</item>
+        <item>Delhi Chakla</item>
+        <item>Delhi Darwaja</item>
+        <item>Detroj</item>
+        <item>Dhandhuka</item>
+        <item>Dholera</item>
+        <item>Dholka</item>
+        <item>Dudheshwar</item>
+        <item>Ellis Bridge</item>
+        <item>Fedara</item>
+        <item>Gadarpur</item>
+        <item>Gandhi Ashram</item>
+        <item>Gandhinagar</item>
+        <item>Geratpur</item>
+        <item>Ghatlodiya</item>
+        <item>Gheekanta</item>
+        <item>Ghodasar</item>
+        <item>Ghuma</item>
+        <item>Gift City</item>
+        <item>Girdhar Nagar</item>
+        <item>Gita Mandir</item>
+        <item>Godhavi</item>
+        <item>Gokuldham</item>
+        <item>Gomtipur</item>
+        <item>Gota</item>
+        <item>Gulbai Tekra</item>
+        <item>Gurukul</item>
+        <item>Hajipur</item>
+        <item>Hansol</item>
+        <item>Hathijan</item>
+        <item>Hatkeshwar</item>
+        <item>Hosiery Complex</item>
+        <item>Isanpur</item>
+        <item>Jagatpur</item>
+        <item>Jalila</item>
+        <item>Jamalpur</item>
+        <item>Janta Nagar</item>
+        <item>Jashoda Nagar</item>
+        <item>Jawahar Chowk</item>
+        <item>Jetalpur</item>
+        <item>Jivraj Park</item>
+        <item>Jodhpur</item>
+        <item>Juhapura</item>
+        <item>Juna Wadaj</item>
+        <item>Kabir Chowk</item>
+        <item>Kadi</item>
+        <item>Kalapi Nagar</item>
+        <item>Kali</item>
+        <item>Kalupur</item>
+        <item>Kalyanpura</item>
+        <item>Kamiyala</item>
+        <item>Kankaria</item>
+        <item>Kathwada</item>
+        <item>auka</item>
+        <item>Keshav Nagar</item>
+        <item>Khadia</item>
+        <item>Khamasa</item>
+        <item>Khanpur</item>
+        <item>Kharna</item>
+        <item>Kheda</item>
+        <item>Khodiar Nagar</item>
+        <item>Khodiyar Nagar</item>
+        <item>Khokhra</item>
+        <item>Khora Colony</item>
+        <item>Koba</item>
+        <item>kolat</item>
+        <item>Kotarpur</item>
+        <item>Koteshwar</item>
+        <item>Kothgangad</item>
+        <item>Krishnanagar</item>
+        <item>Kuber Nagar</item>
+        <item>Kudasan</item>
+        <item>Kuha</item>
+        <item>Lal Darwaza</item>
+        <item>Lambha</item>
+        <item>Lapkaman</item>
+        <item>Law Garden</item>
+        <item>Laxmanpura</item>
+        <item>Lothal Bhurhki</item>
+        <item>Madhupura</item>
+        <item>Mahadev Nagar</item>
+        <item>Mahudara</item>
+        <item>Makarba</item>
+        <item>Mamura</item>
+        <item>Mandal</item>
+        <item>Manek Chowk</item>
+        <item>Maninagar</item>
+        <item>Maninagar East</item>
+        <item>Manipur</item>
+        <item>Mankol</item>
+        <item>Meghani Nagar</item>
+        <item>Mehmedabad</item>
+        <item>Memnagar</item>
+        <item>Mirzapur</item>
+        <item>Mithakhali</item>
+        <item>Moraiya</item>
+        <item>Motera</item>
+        <item>Nalsarovar</item>
+        <item>Nana Chiloda</item>
+        <item>Nandej</item>
+        <item>Nandol</item>
+        <item>Naranpura</item>
+        <item>Narayan Nagar</item>
+        <item>Naroda</item>
+        <item>Naroda GIDC</item>
+        <item>Narol</item>
+        <item>Narolgam</item>
+        <item>Nasmed</item>
+        <item>Nava Naroda</item>
+        <item>Nava Vadaj</item>
+        <item>Navarangpura Gam</item>
+        <item>Navjivan</item>
+        <item>Navrang Pura</item>
+        <item>Nehru Nagar</item>
+        <item>New Maninagar</item>
+        <item>New Ranip</item>
+        <item>Nikol</item>
+        <item>Nirnay Nagar</item>
+        <item>Noble nagar</item>
+        <item>Odhav</item>
+        <item>Odhav GIDC</item>
+        <item>Ognaj</item>
+        <item>Paldi</item>
+        <item>Palodia</item>
+        <item>Pankore Naka</item>
+        <item>Parthala Khanjarpur</item>
+        <item>Patthar Kuva</item>
+        <item>Pethapur</item>
+        <item>Prahlad Nagar</item>
+        <item>Prahlad Nagar Extension</item>
+        <item>Purshottam Nagar</item>
+        <item>Raikhad</item>
+        <item>Railway Colony</item>
+        <item>Raipur</item>
+        <item>Rakanpur</item>
+        <item>Rakhial</item>
+        <item>Ramdev Nagar</item>
+        <item>Rampura</item>
+        <item>Rancharda</item>
+        <item>Ranip</item>
+        <item>Ranna Park</item>
+        <item>Ranpur</item>
+        <item>Raska</item>
+        <item>Ratan Pol</item>
+        <item>Revdi Bazar</item>
+        <item>Sabarmati</item>
+        <item>Sachana</item>
+        <item>Sadar Bazar</item>
+        <item>Saffrony</item>
+        <item>Saijpur Bogha</item>
+        <item>Sanand</item>
+        <item>Sanathal</item>
+        <item>Santej</item>
+        <item>Sarangpur</item>
+        <item>Saraspur</item>
+        <item>Sardar Colony</item>
+        <item>Sardar Nagar</item>
+        <item>Sarfabad</item>
+        <item>Sargaasan</item>
+        <item>Sarkhej</item>
+        <item>Satadhar</item>
+        <item>Satellite</item>
+        <item>Satellite Extension</item>
+        <item>Satlasana</item>
+        <item>Science City</item>
+        <item>Shahibaug</item>
+        <item>Shahpur</item>
+        <item>Shilaj</item>
+        <item>Shyamal</item>
+        <item>Sindhi Ambawadi</item>
+        <item>Sola</item>
+        <item>Sorkha</item>
+        <item>South Bopal</item>
+        <item>Subhash Bridge</item>
+        <item>Sughad</item>
+        <item>Sukhrampura</item>
+        <item>Talod</item>
+        <item>Tavdipura</item>
+        <item>Teen Darwaja</item>
+        <item>Thakkarbapa Nagar</item>
+        <item>Thaltej</item>
+        <item>Thol</item>
+        <item>Tragad</item>
+        <item>Unali</item>
+        <item>Urjanagar</item>
+        <item>Usmanpura</item>
+        <item>Vadaj</item>
+        <item>Vadsar</item>
+        <item>Vaishnodevi Circle</item>
+        <item>Vasna</item>
+        <item>Vastral</item>
+        <item>Vastrapur</item>
+        <item>Vataman</item>
+        <item>Vatva</item>
+        <item>Vatva GIDC</item>
+        <item>Vavol</item>
+        <item>Vejalpur</item>
+        <item>Vejalpur Gam</item>
+    </string-array>
+
+    <string-array name="Collage_array">
+        <item>A. G. Teachers College</item>
+        <item>AES Institute of Computer Studies</item>
+        <item>AES Post Graduate Institute of Business Management</item>
+        <item>Ahmedabad dental collage AND hospital</item>
+        <item>Ahmedabad Institute of Nursing Sciences, Ahmedabad</item>
+        <item>Ahmedabad institute of  technology</item>
+        <item>ANM FHW traning school, Ahmedabad</item>
+        <item> B.K. SCHOOL OF BUSINESS MANAGEMENT</item>
+        <item> Central institute of  Plastic engineering and technology </item>
+        <item> central for environmental planning AND technology ahmedabad</item>
+        <item> College of dental sciences and research centre ahmedabad</item>
+        <item> college of nursing ahmedabad</item>
+        <item> DBRACN-Dr B R Ambedkar College Of Nursing</item>
+        <item> Government polytechnic for girls </item>
+        <item> govt dental college ahmedabad</item>
+        <item>gujarat university ahmedabad</item>
+        <item>gujarat vidhyapith collage ahmedabad</item>
+        <item>I.M.nanavati law college ahmedabad</item>
+        <item>indian institute of management in ahmedabad</item>
+        <item>indira gandhi national open university study centre college of nursing</item>
+        <item>j g college of commerce</item>
+        <item>gujarat institute of nursing education and research ahmedabad</item>
+        <item>kesarsal medical college AND research institute ahmedabad</item>
+        <item>L J  institute of engineering and technology</item>
+        <item> L D engineering collage</item>
+        <item>L.m. college of pharmacy</item>
+        <item>maneklal nanavati law college</item>
+        <item>motilal nehru law college</item>
+        <item>navnital rachholal institute of business management</item>
+        <item>Navgujarat law college</item>
+        <item> new civil hospital school of nursing ahmedabad </item>
+        <item> Nirma institute of management</item>
+        <item> nirma university of science and technology</item>
+        <item> peraplegya AND training center AND physiotherapy college</item>
+        <item> sardhaban chimanlal lalbhai collage ahmedabad</item>
+        <item>school of nursing ,division training center,bavala disct ahmedabad </item>
+        <item> seth k m school of postgraduate medicine and research ahmedabad</item>
+        <item> seth k m school of postgraduate medicine and research ahmedabad</item>
+        <item> shrey nursing collage</item>
+        <item> shubham institute of nursing science and research centre</item>
+        <item> singhi college of nursing ahmedabad</item>
+        <item> sir L.A shah low collage</item>
+        <item> skum college of nursing</item>
+        <item> smt. n.h.l.municipal medical college ahmedabad</item>
+        <item> shri chimanbhai patel institute of management AND research</item>
+        <item> vivekanand college of law ahmedabad</item>
+        <item> vishwakarma government engineering college</item>
+        <item> sal engineering and technical institute</item>
+        <item> silver oak college of engineering and technology</item>
+    </string-array>
+
+    <string-array name="Collage_address_array">
+        <item>Ahmedabad	University Road, Navrangpura, Ahmedabad, Gujarat</item>
+        <item>H. L. College Campus, P. B. No. 4206, Navrangpura, Ahmedabad, Gujarat</item>
+        <item>16, Vikram Sarabhai Marg, Navrangpura, Ahmedabad, Gujarat</item>
+    </string-array>
+
+    <string-array name="Collage_address_mobileno">
+        <item>+91-79-26442451</item>
+        <item>+91-79-26402987</item>
+        <item>+91-79-26301302</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Category">Category</string>
+    <string name="Birthdate">Birthdate</string>
+    <string name="Destination">Destination</string>
+    <string name="Source">Source</string>
+    <string name="StartDate">StartDate</string>
+    <string name="passStatus">Pass Status</string>
+    <string name="employee_bus_pass">Employee Bus Pass Request is Pending</string>
+    <string name="Gender">Gender</string>
+
+</resources>

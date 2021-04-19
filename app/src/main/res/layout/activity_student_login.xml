@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".StudentLogin"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            layout="@layout/app_toolbar"
+            />
+
+
+        <TextView
+            android:id="@+id/tvUserInfo"
+            android:text="@string/Login"
+            style="@style/TextViewTheme"
+            android:textAlignment="center"
+            android:textSize="30sp" />
+
+        <EditText
+            android:id="@+id/etEmail"
+            android:hint="@string/email"
+            style="@style/EditTextTheme"
+            android:inputType="textEmailAddress"
+            android:importantForAutofill="no" />
+
+        <EditText
+            android:id="@+id/etPassword"
+            style="@style/EditTextTheme"
+            android:hint="@string/Password"
+            android:inputType="textPassword"
+            android:importantForAutofill="no"/>
+
+
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_gravity="center"
+            android:text="@string/login"
+            style="@style/ButtonTheme"
+            />
+
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>
